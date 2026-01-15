@@ -17,6 +17,7 @@ public:
 	/// </summary>
 	virtual ~ICommand();
 
+
 	/// <summary>
 	/// 実行
 	/// </summary>
